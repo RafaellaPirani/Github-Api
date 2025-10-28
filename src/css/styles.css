@@ -156,6 +156,27 @@ main {
   font-weight: bold;
 }
 
+.container .profile-data .info h3{
+  font-size: 16px;
+  margin-bottom: 20px;
+  font-weight: 100;
+}
+
+.container .profile-data .repositories ul li {
+  list-style: none;
+  text-align: center;
+  background-color: #f8f8f8;
+  border-radius: 10px;
+  padding: 15px;
+  width: 250px;
+}
+
+.container .profile-data .repositories ul li p {
+  font-size: 13px;
+  color: #333;
+  margin-top: 4px;
+}
+
 @media (max-width: 1280px) {
   .container {
     flex-direction: column;

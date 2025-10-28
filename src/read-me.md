@@ -25,7 +25,7 @@ O foco está no uso do **JavaScript** para realizar requisições com **fetch()*
 
 | Página Inicial | Resultado da Busca |
 |-----------------|-------------------|
-| ![Página Inicial](../src/images/preview-home.png) | ![Resultado da Busca](../src/images/preview-user.png) |
+| ![Página Inicial](./src/images/preview-home.png) | ![Resultado da Busca](./src/images/preview-user.png) |
 
 ---
 
